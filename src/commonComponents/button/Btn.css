@@ -1,0 +1,9 @@
+.button{
+    display: grid;
+    
+}
+.button > Button{
+    background-color: #2323BE;
+    border-radius: 10px;
+
+}

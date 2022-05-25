@@ -1,0 +1,58 @@
+.mainContainer {
+  background-color: #ffffff;
+  width: 271px;
+  height: 100%;
+}
+
+.logo {
+  width: 106px;
+  height: 64px;
+  margin: 60px 0px 31px 30px;
+}
+
+.subContainer {
+  width: 192px;
+  height: 550px;
+  margin:0px 49px 0px 30px;
+  padding:0px 0px 0px 24px ;
+  /* margin: 10px; */
+
+}
+
+.image {
+  width: 18px;
+  margin-right:12px;
+
+}
+
+.flex {
+  display: flex;
+  justify-content: start;
+  align-items: center;
+  margin:0px 0px 30px;
+}
+
+.footer{
+margin:114px 0px 0px 30px;
+}
+.title{
+  
+  font-family: Montserrat;
+  font-size: 10px;
+  font-weight: 600;
+  line-height: 30px;
+  letter-spacing: -0.02em;
+  text-align: left;
+  color: #121F3E;
+  margin:0px 0px 0px 32px ;
+}
+.descripation{
+font-family: Montserrat;
+font-size: 10px;
+font-weight: 400;
+line-height: 13px;
+letter-spacing: -0.02em;
+text-align: left;
+margin:0px 0px 0px 32px ;
+
+}

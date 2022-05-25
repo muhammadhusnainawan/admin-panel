@@ -1,0 +1,40 @@
+.navbar {
+  height: 11.71vh;
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  width: auto;
+  background-color: #ffffff;
+  align-content: center;
+}
+.navbarHeading > h2 {
+  display: flex;
+  align-items: center;
+  font-family: "Montserrat";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 12px;
+  line-height: 30px;
+  color: #4f5b67;
+  margin: 0;
+}
+.navbarRight{
+    display: flex;
+}
+.navbarRight > img {
+  padding-left: 24px;
+  object-fit: contain;
+  cursor: pointer;
+}
+.navbarRight > p {
+  display: flex;
+  align-items: center;
+  font-family: "Montserrat";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 12px;
+  line-height: 30px;
+  color: #4f5b67;
+  margin: 0;
+  padding-left: 10px;
+}

@@ -1,0 +1,52 @@
+.adminPannel {
+  background-color: #e7e5e5;
+  box-shadow: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+}
+div.noPadding {
+  padding-left: 0;
+  padding-right: 0;
+}
+
+div.noMargin {
+  margin-left: 0;
+  margin-right: 0;
+}
+.adminPannel__col {
+  margin-left: 2px;
+}
+.inputAdd {
+  margin: 28px;
+  margin-bottom: 13px;
+  display: flex;
+  justify-content: space-around;
+}
+.inputAddBtn {
+  outline: none;
+  border: none;
+  height: 40px;
+  width: 8.4vw;
+  padding-left: 8px;
+  padding-right: 8px;
+  border-radius: 10px;
+  color: #fff;
+  font-weight: 600;
+  font-size: 12px;
+  background: #8484f8;
+  box-shadow: 0px 4px 4px rgba(241, 233, 233, 0.25);
+  border-radius: 15px;
+}
+.inputAddBtnModal {
+  outline: none;
+  border: none;
+  height: 41px;
+  width: 11.20vw;
+  padding-left: 8px;
+  padding-right: 8px;
+  border-radius: 10px;
+  color: #fff;
+  font-weight: 600;
+  font-size: 12px;
+  background: #FF513A;
+  box-shadow: 0px 4px 4px rgba(241, 233, 233, 0.25);
+  border-radius: 15px;
+}
